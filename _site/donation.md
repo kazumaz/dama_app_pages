@@ -1,6 +1,15 @@
 ## 寄付の考え方
 
-アプリを使ってくれる人も、応援してくださる方も、みんな気持ちよく使えたらなぁと思います。
+アプリを使ってくれる人も、応援してくださる方も、みんな気持ちよくいれたらなぁと思います。
+アプリを開発してお金を稼ぐ方法はいくつかあります。
+
+1. アプリそのものを有料にする。
+2. アプリ内課金を行う。
+3. アプリに広告を載せる。
+
+## 有料に抵抗がある人
+
+[test]!(3.png)
  
 You can use the [editor on GitHub](https://github.com/kazumaz/dama_app_pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
