@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## アプリの紹介ページへようこそ
+
+
+[寄付ページ](donation)
+
 
 You can use the [editor on GitHub](https://github.com/kazumaz/dama_app_pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

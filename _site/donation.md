@@ -1,9 +1,7 @@
-## アプリの紹介ページへようこそ
+## 寄付の考え方
 
-
-[寄付ページ](donation)
-
-
+アプリを使ってくれる人も、応援してくださる方も、みんな気持ちよく使えたらなぁと思います。
+ 
 You can use the [editor on GitHub](https://github.com/kazumaz/dama_app_pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
