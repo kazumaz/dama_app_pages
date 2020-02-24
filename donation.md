@@ -8,8 +8,12 @@
 3. アプリに広告を載せる。
 
 ## 有料に抵抗がある人
+<img src="{{site.baseurl}}/assets/3.png" width="320px">
 
-[test]!(3.png)
+やっぱり、有料アプリは買ってくれる人が少ないですよ。
+必要としてくださっている人に届かないのは非常に心苦しいものがあります。
+私も有料だと最初に手が出しにくくなります。
+
  
 You can use the [editor on GitHub](https://github.com/kazumaz/dama_app_pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
