@@ -1,56 +1,47 @@
-<div style="text-align: center;">
-<h1> 寄付の考え方 </h1>
-
+## 寄付の考え方
+   
 アプリを使ってくれる人も、応援してくださる方も、みんな気持ちよくいれたらなぁと思います。
-:プリを開発してお金を稼ぐ方法はいくつかあります。
-
+アプリを開発してお金を稼ぐ方法はいくつかあります。
+   
 1. アプリそのものを有料にする。
 2. アプリ内課金を行う。
 3. アプリに広告を載せる。
-
+  
 ## 有料に抵抗がある人
-</div>
-
-<div align="center">
-<img src="{{site.baseurl}}/assets/3.png" width="320px">
-</div>
-やっぱり、有料アプリは買ってくれる人が少ないですよ。
+<img src="{{site.baseurl}}/assets/3.png" width="200px">
+ 
+やっぱり、有料アプリは買ってくれる人が少ないです。
 必要としてくださっている人に届かないのは非常に心苦しいものがあります。
 私も有料だと最初に手が出しにくくなります。
-
+また、重要な機能を制限し、有料にしてしまうと、やっぱりせっかく作ったアプリが必要な人に届かなくなってしまいます。
+   
+## 広告に抵抗がある人
+<img src="{{site.baseurl}}/assets/1.png" width="200px">
+     
+広告がない方がアプリを気持ちよく使えるという人は多いと思います。
+私もその１人です。広告が悪いとは全く思いませんが、このアプリには似合わないようです。
+子供が使ったりもしますし、何が表示されるコントロールしづらい広告は出したくはありません。
  
-You can use the [editor on GitHub](https://github.com/kazumaz/dama_app_pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 作る人
+<img src="{{site.baseurl}}/assets/5.png" width="200px">
+ 
+アプリを使っていただけるだけでも嬉しいですが、アプリ開発でお金が入ると、よりアプリ開発に時間をさけるのでもっと嬉しいです。
+　
+## 寄付してくださる人
+<img src="{{site.baseurl}}/assets/2.png" width="200px">
+  
+寄付してくださる人にも大きなメリットがあるかというと難しいと思います。
+しかし、寄付してくださることで、そのお金をアプリ開発に割り当てることで、より良いアプリ開発につながります。
+  
+## 寄付は少し厳しいという方
+ 
+寄付以外にも、開発者が喜ぶことはたくさんあります。
+* さりげなく、お友達にアプリを進めてくださること。
+* レビューを書いてくださること。
+* twitterをフォローしていただけること。
+* メールでご要望を送ってくださること。
+ 
+そもそもアプリを落としてくださっているだけで、十分開発者に嬉しいことをしてくださっています。
+ありがとうございます。寄付をしなくてもいいので引き続き使っていただけると嬉しいです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kazumaz/dama_app_pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
