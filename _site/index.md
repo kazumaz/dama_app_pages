@@ -1,4 +1,4 @@
-## アプリの紹介ページへようこそ
+## アプリのサポートページへようこそ
 <img src="{{site.baseurl}}/assets/8.png" width="320px">
  
 紹介ページに来てくださりありがとうございます！
@@ -9,6 +9,8 @@
 
 ## その他のページ
  
-#### 1. [寄付ページ](donation)
+#### 1. [開発者の連絡先](contact)
   
-#### 2.[Privacy Policy](privacy-policy-en)
+#### 2. [寄付ページ](donation)
+  
+#### 3.[Privacy Policy](privacy-policy-en)
