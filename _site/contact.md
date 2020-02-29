@@ -2,5 +2,6 @@
 　
 #### [Twitter](https://twitter.com/kzmat2)
  
-#### Mail: kzm2235@yahoo.ne.jp
+#### Mail: kzm2235?yahoo.ne.jp
+? を @に置き換えてください。
 
