@@ -16,5 +16,5 @@
   
 #### 3.[Privacy Policy](privacy-policy-en)
  
-#### 4.[エンジニア向けの技術紹介](https://github.com/kazumaz/dama_app)
+#### 4.[エンジニア向けの技術紹介](https://github.com/kazumaz/colleks)
  
