@@ -3,7 +3,6 @@
 
 
 <a href="https://itunes.apple.com/jp/app/id1497708820?mt=8"><img src="{{site.baseurl}}/assets/appstore.png" width="100px"  alt="次へ"></a>
-<img src="{{site.baseurl}}/assets/appstore.png" width="100px">
  
 サポートページに来てくださりありがとうございます！！
 このアプリは子供達が、お手伝いをたくさんし、「ありがとう」をたくさん集めることが出来るようにと思い作りました。
@@ -23,5 +22,5 @@
   
 #### 3.[Privacy Policy](privacy-policy-en)
  
-#### 4.[エンジニア向けの技術紹介](https://github.com/kazumaz/colleks)
+#### 4.[開発者むけ](engineer)
  

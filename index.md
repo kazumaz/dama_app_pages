@@ -22,5 +22,5 @@
   
 #### 3.[Privacy Policy](privacy-policy-en)
  
-#### 4.[エンジニア向けの技術紹介](https://github.com/kazumaz/colleks)
+#### 4.[開発者むけ](engineer)
  
