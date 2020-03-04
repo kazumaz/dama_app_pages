@@ -1,5 +1,9 @@
 ## サポートページへようこそ
 <img src="{{site.baseurl}}/assets/splash.png" width="320px">
+
+
+<a href="https://itunes.apple.com/jp/app/id1497708820?mt=8"><img src="{{site.baseurl}}/assets/appstore.png" width="100px"  alt="次へ"></a>
+<img src="{{site.baseurl}}/assets/appstore.png" width="100px">
  
 サポートページに来てくださりありがとうございます！！
 このアプリは子供達が、お手伝いをたくさんし、「ありがとう」をたくさん集めることが出来るようにと思い作りました。
