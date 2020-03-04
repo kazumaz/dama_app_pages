@@ -30,9 +30,16 @@
 ## 寄付してくださる人
 <img src="{{site.baseurl}}/assets/2.png" width="200px">
   
+
 寄付してくださる人にも大きなメリットがあるかというと難しいと思います。
 しかし、寄付してくださることで、そのお金をアプリ開発に割り当てることで、より良いアプリ開発につながります。
   
+<form action="https://www.paypal.me/kazumamatsumoto/1000">
+<input type="submit" value="paypalで寄付" style="width:200px;height:30px">
+</form>
+paypalは、世界中で使われている送金サービスです。
+
+
 ## 寄付は少し厳しいという方
  
 寄付以外にも、開発者が喜ぶことはたくさんあります。
